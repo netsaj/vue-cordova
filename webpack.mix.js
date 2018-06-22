@@ -11,13 +11,9 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.autoload({
-    'jquery': ['jQuery', '$'],
-});
-
 mix
     .js('src/index.js', 'www/js')
-    .sass('src/css/index.scss', 'www/css')
+    .sass('src/index.scss', 'www/css')
     .options({
         processCssUrls: false
     })

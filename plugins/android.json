@@ -7,14 +7,14 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-battery-status": {
-      "PACKAGE_NAME": "co.femr"
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "co.edu.sena"
     },
     "cordova-plugin-device": {
-      "PACKAGE_NAME": "co.femr"
+      "PACKAGE_NAME": "co.edu.sena"
     },
-    "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "co.femr"
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "co.edu.sena"
     }
   },
   "dependent_plugins": {}
