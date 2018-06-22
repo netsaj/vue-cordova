@@ -1,4 +1,4 @@
-co.edu.sena
+co.femr
 int drawable screen 0x7f010000
 int mipmap icon 0x7f020000
 int string activity_name 0x7f030000

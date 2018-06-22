@@ -1,0 +1,11 @@
+//@import "../../node_modules/bootswatch/dist/yeti/variables";
+@import '../../node_modules/element-ui/lib/theme-chalk/index.css';
+
+//sobrescritura de clases
+
+
+$material-icons-font-path: 'material-icons/iconfont/';
+@import '../../node_modules/material-icons/iconfont/material-icons';
+//@import "../../node_modules/bootswatch/dist/cosmo/bootstrap.css";
+@import "../../node_modules/font-awesome/scss/font-awesome";
+@import "../../node_modules/bootstrap-material-design/dist/css/bootstrap-material-design.css";
